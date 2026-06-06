@@ -192,7 +192,7 @@ HTMLファイルでは、必ず以下の順番でCSSファイルを読み込み�
 
 - 英小文字・数字・ハイフンのみ（拡張子は `.png`/`.jpg`/`.jpeg`/`.webp`）
 - セクションや用途の接頭辞を推奨: `hero-`, `reason-`, `scene-`, `gym-`, `trainer-`
-  - 例: `hero-visual.png`, `reason-pricing.png`, `scene-counseling.png`, `gym-exterior.png`, `trainer-fukuda.png`
+  - 例: `hero-visual.png`, `reason-pricing.png`, `scene-counseling.png`, `gym-exterior.png`, `trainer-fujiwara.png`
 
 #### d. 取り扱いルール
 
